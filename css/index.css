@@ -1,0 +1,16 @@
+* { font-family: 'Poppins', sans-serif; }
+
+footer { height: 45px; }
+footer p { padding: 9px; }
+
+.titulo { font-size: 5em; }
+
+.paginapadding { margin-top: 80px; margin-bottom: 70px; }
+
+.imagenartic { margin: 2px; } 
+.imagenartic img { border-radius: 17px; }
+
+.articgris { color: rgb(63, 63, 63); background-color: rgb(228, 228, 228); }
+.articdorado { color: rgb(82, 61, 0); background-color: rgb(255, 231, 206); }
+
+.altura_text_gallery { height: 275px; }
